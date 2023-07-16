@@ -1,0 +1,18 @@
+h3{
+    font-size: 25px !important;
+}
+
+canvas{
+    border: 1px solid black;
+}
+
+circle{
+    stroke: green;
+    fill: red;
+}
+
+rect{
+    stroke: yellow;
+    fill: green;
+}
+
